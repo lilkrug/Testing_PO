@@ -1,0 +1,11 @@
+np,{
+  "name": "folderr",
+  "version": "1.0.0",
+  "description": "njkm",
+  "main": "km",
+  "scripts": {
+    "test": "mk"
+  },
+  "author": "",
+  "license": "ISC"
+}
