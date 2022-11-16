@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="383291da-8058-4338-9118-05618bae1bc4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Laba5/Java-project/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Laba5/Java-project/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Laba5/Java-project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Laba5/Java-project/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Education/3 курс 1 сем/TestingKursEpam/Laba6/String,RegExp,DataTime",
+    "last_opened_file_path": "D:/Education/3 курс 1 сем/TestingKursEpam/Laba6",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -50,6 +52,7 @@
       <workItem from="1666860324122" duration="16000" />
       <workItem from="1667297143398" duration="494000" />
       <workItem from="1667308583853" duration="111000" />
+      <workItem from="1667456919885" duration="329000" />
     </task>
     <servers />
   </component>
