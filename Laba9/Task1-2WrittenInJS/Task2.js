@@ -14,6 +14,8 @@ const {Builder, Browser, By, Key, until} = require('selenium-webdriver');
 
     await driver.findElement(By.id('postform-name')).sendKeys('how to gain dominance among developers', Key.RETURN);
     await driver.findElement(By.xpath("//button[@class='btn -big']")).click();
+
+    await driver.wait(until.titleIs('Pastebin.com - #1 paste tool since 2002!'), 2000);
     
   } finally {
     await driver.quit();
