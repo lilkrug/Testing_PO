@@ -30,14 +30,8 @@ class HomePage extends BasePage{
         await this.enterTextByCss(pasteTitle, Key.RETURN);
     }
 
-    async enter_create_new_paste(xpathField) {
-        await this.enterTextByXpath(xpathField);
+    async enter_create_new_paste(xpathPaste) {
+        await this.enterTextByXpath(xpathPaste);
     }
-
-    async wait_paste(wait_paste) {
-        await this.waitBrowser(wait_paste);
-    }
-
-    
 }
 module.exports = new HomePage();

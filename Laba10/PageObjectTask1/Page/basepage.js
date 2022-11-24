@@ -22,10 +22,6 @@ class BasePage{
     async closeBrowser() {
         await driver.quit();
     }
-    
-    async waitBrowser(title) {
-        await driver.wait(until.titleIs(title), 2000);
-    }
 }
 
 module.exports = BasePage;

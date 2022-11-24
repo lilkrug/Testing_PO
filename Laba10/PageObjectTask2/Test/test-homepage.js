@@ -1,7 +1,7 @@
 const homepage = require('../Page/homepage');
 
 describe('Describe', function(){
-    this.timeout(20000);
+    this.timeout(50000);
    
     beforeEach(function(){
      
@@ -22,7 +22,6 @@ describe('Describe', function(){
 
         await homepage.enter_create_new_paste("//button[@class='btn -big']");
         
-        await homepage.wait_paste('Pastebin.com - #1 paste tool since 2002!');
     })
 
     afterEach(async function(){
