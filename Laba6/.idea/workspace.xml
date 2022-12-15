@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9aca0acf-0972-4d72-8f1f-2e314d2e28a7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Laba5/Java-project/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba5/Java-project/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba5/Java-project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba5/Java-project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConditionalStatementsandDataTypes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ConditionalStatementsandDataTypes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba7/UnitTestCalculator/.nyc_output/576327d2-3e30-4f4f-a680-3617b760d69b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba7/UnitTestCalculator/.nyc_output/9e796903-d87c-4d13-bf66-73b05a55fad8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba7/UnitTestCalculator/.nyc_output/e7c9191a-f5ad-4477-9bbf-c1c29e9d6d40.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba7/UnitTestCalculator/.nyc_output/processinfo/576327d2-3e30-4f4f-a680-3617b760d69b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba7/UnitTestCalculator/.nyc_output/processinfo/9e796903-d87c-4d13-bf66-73b05a55fad8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba7/UnitTestCalculator/.nyc_output/processinfo/e7c9191a-f5ad-4477-9bbf-c1c29e9d6d40.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba7/UnitTestCalculator/.nyc_output/processinfo/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba7/UnitTestCalculator/.nyc_output/processinfo/index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba7/UnitTestCalculator/app/Calculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba7/UnitTestCalculator/app/Calculator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba7/UnitTestCalculator/coverage/Calculator.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba7/UnitTestCalculator/coverage/Calculator.js.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba7/UnitTestCalculator/coverage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba7/UnitTestCalculator/coverage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba7/UnitTestCalculator/mochawesome-report/mochawesome.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba7/UnitTestCalculator/mochawesome-report/mochawesome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba7/UnitTestCalculator/mochawesome-report/mochawesome.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba7/UnitTestCalculator/mochawesome-report/mochawesome.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba7/UnitTestCalculator/test/specs/MethodAddAndMultiply.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba7/UnitTestCalculator/test/specs/MethodAddAndMultiply.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba9/hellowebdriver/hellowebdriver/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba9/hellowebdriver/hellowebdriver/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba9/hellowebdriver/hellowebdriver/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba9/hellowebdriver/hellowebdriver/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GlGdV8Lo1pgjIQgmhTj0E0E4Am" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Education/3 курс 1 сем/КСКП/Lab8/Lab8",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9aca0acf-0972-4d72-8f1f-2e314d2e28a7" name="Changes" comment="" />
+      <created>1666955844324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666955844324</updated>
+      <workItem from="1666955845733" duration="9404000" />
+      <workItem from="1667457252692" duration="1690000" />
+      <workItem from="1668158316511" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
