@@ -4,7 +4,7 @@ describe('sign Up', () => {
 
   it('Input information', () => {
     SignUp.visit();
-    SignUp.inputPersonData();
+    SignUp.inputData();
   })
 
 })

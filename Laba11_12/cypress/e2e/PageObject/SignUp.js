@@ -1,18 +1,13 @@
-import common from "../../support/utils/common";
-
 class SignUp {
     static visit(){
-        cy.visit('https://appleid.apple.com/account/');
+        cy.visit('https://auth.tesla.com/oauth2/v1/register?redirect_uri=https%3A%2F%2Fwww.tesla.com%2Fteslaaccount%2Fowner-xp%2Fauth%2Fcallback&response_type=code&client_id=ownership&scope=offline_access%20openid%20ou_code%20email%20phone&audience=https%3A%2F%2Fownership.tesla.com%2F&locale=en-CA');
     }
 
-    static inputPersonData() {
-        cy.get('first-name-input').type("Egor");
-        cy.get("last-name-input").type("Drachan");
-        cy.get("wc-birthday").type("13122003");
-        cy.get("email-input").type("Egor@gmail.com");
-        cy.get("new-password").type("A1BL2kkksfffff{enter}");
-        cy.get("confirm-password").type("A1BL2kkkksfffff");
-        cy.get("phone-number").type("+375295359685");
+    static inputData() {
+        cy.get("#form-input-first_name").type('Alexei');
+        cy.get("#form-input-last_name").type('Kruglik');
+        cy.get("#captcha").type('Gb8n');
+        cy.get("#form-step1-next").click(); 
     }
 
 }

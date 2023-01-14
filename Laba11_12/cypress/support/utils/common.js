@@ -9,8 +9,8 @@ class Common{
     enterTextByXpath(xpath,text) {
          cy.xpath(xpath).type(text);
     }
-    clickById(id) {
-         cy.get(id).click();
+    clickById(id,text) {
+         cy.get(id).type(text);
     }
 }
 
